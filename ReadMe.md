@@ -92,7 +92,12 @@ mhooks: BlockAlloc: Looking at address 00000000774A0000
 
 mhooks: BlockAlloc: Allocated block at 0000000077410000 as 481 trampolines
 
+---
+原理图
 
+图片引用的，地址没记住。
+
+![snatshot](mhook_diagram.png)
 
 
 
